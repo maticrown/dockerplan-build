@@ -1,0 +1,16 @@
+/* .dockerplan {
+  bottom: 0px;
+} */
+
+.dockerplan > button {
+  display: flex;
+  color: red;
+  cursor: pointer;
+  width: 100%;
+  top: 0px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  align-self: stretch;
+}

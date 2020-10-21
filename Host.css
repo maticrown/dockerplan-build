@@ -1,0 +1,14 @@
+.body {
+    background-color: #282c35;
+    color: green;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.bigblue {
+    color: DodgerBlue;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
