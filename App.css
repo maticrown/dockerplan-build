@@ -1,0 +1,22 @@
+.app {
+  background-color: cadetblue;
+  /* position: fixed; */
+  text-align: center;
+  display: flex;
+  /* margin-left: 40px; */
+  justify-content: contain;
+}
+
+.app > text {
+  display: flex;
+}
+
+.click {
+  background-color: whitesmoke;
+  display: flex;
+  /* justify-content: contain; */
+  position: absolute;
+  bottom: -200px;
+  width: 100%;
+  /* height: 50px; */
+}
